@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetupEnvironment", "SetupEn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID Selector", "ID Selector\ID Selector.csproj", "{D8010F0C-F251-4690-B9B3-46B6255227C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassName", "ClassName\ClassName.csproj", "{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D8010F0C-F251-4690-B9B3-46B6255227C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8010F0C-F251-4690-B9B3-46B6255227C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8010F0C-F251-4690-B9B3-46B6255227C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
