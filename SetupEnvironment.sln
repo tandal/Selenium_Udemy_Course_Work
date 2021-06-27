@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSS_And_XPath", "CSS_And_XP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSuchElementException", "NoSuchElementException\NoSuchElementException.csproj", "{69B19676-5BB5-41FA-9CA4-B834B1D2B67C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputTextBox", "InputTextBox\InputTextBox.csproj", "{BE3D57D5-19C0-4032-92F6-EDFD7AEF91D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkbox", "Checkbox\Checkbox.csproj", "{95B573B6-5890-418E-A488-FA024EB061D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{69B19676-5BB5-41FA-9CA4-B834B1D2B67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69B19676-5BB5-41FA-9CA4-B834B1D2B67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69B19676-5BB5-41FA-9CA4-B834B1D2B67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3D57D5-19C0-4032-92F6-EDFD7AEF91D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3D57D5-19C0-4032-92F6-EDFD7AEF91D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3D57D5-19C0-4032-92F6-EDFD7AEF91D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3D57D5-19C0-4032-92F6-EDFD7AEF91D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B573B6-5890-418E-A488-FA024EB061D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B573B6-5890-418E-A488-FA024EB061D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B573B6-5890-418E-A488-FA024EB061D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B573B6-5890-418E-A488-FA024EB061D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
