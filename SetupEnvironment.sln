@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID Selector", "ID Selector\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassName", "ClassName\ClassName.csproj", "{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSS_And_XPath", "CSS_And_XPath\CSS_And_XPath.csproj", "{253F3D9B-FC54-409D-B3E5-DA6BA179AC38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA3CEE21-E2C9-4CB2-8FC9-5EACC0B6302D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253F3D9B-FC54-409D-B3E5-DA6BA179AC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253F3D9B-FC54-409D-B3E5-DA6BA179AC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253F3D9B-FC54-409D-B3E5-DA6BA179AC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253F3D9B-FC54-409D-B3E5-DA6BA179AC38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
